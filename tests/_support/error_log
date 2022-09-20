@@ -1,0 +1,30 @@
+[08-Oct-2021 02:40:26 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Oct-2021 02:40:26 America/Chicago] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/educare/cotizador.mcpromociones.cl/tests/_support/UnitTester.php on line 19
+[08-Oct-2021 02:40:28 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Oct-2021 02:40:28 America/Chicago] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/educare/cotizador.mcpromociones.cl/tests/_support/FunctionalTester.php on line 19
+[08-Oct-2021 02:40:29 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Oct-2021 02:40:29 America/Chicago] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/educare/cotizador.mcpromociones.cl/tests/_support/AcceptanceTester.php on line 19
+[23-Oct-2021 20:30:45 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[23-Oct-2021 20:30:45 America/Chicago] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/educare/cotizador.mcpromociones.cl/tests/_support/AcceptanceTester.php on line 19
+[28-Oct-2021 05:54:27 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Oct-2021 05:54:27 America/Chicago] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/educare/cotizador.mcpromociones.cl/tests/_support/FunctionalTester.php on line 19
+[30-Oct-2021 00:30:09 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[30-Oct-2021 00:30:09 America/Chicago] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/educare/cotizador.mcpromociones.cl/tests/_support/UnitTester.php on line 19
+[04-Nov-2021 22:03:55 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Nov-2021 22:03:55 America/Chicago] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/educare/cotizador.mcpromociones.cl/tests/_support/AcceptanceTester.php on line 19
+[10-Nov-2021 11:31:26 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[10-Nov-2021 11:31:26 America/Chicago] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/educare/cotizador.mcpromociones.cl/tests/_support/AcceptanceTester.php on line 19
+[14-Nov-2021 16:57:16 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[14-Nov-2021 16:57:16 America/Chicago] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/educare/cotizador.mcpromociones.cl/tests/_support/UnitTester.php on line 19
+[26-Dec-2021 06:49:32 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[26-Dec-2021 06:49:32 America/Chicago] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/educare/cotizador.mcpromociones.cl/tests/_support/AcceptanceTester.php on line 19
+[29-Dec-2021 13:45:30 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Dec-2021 13:45:30 America/Chicago] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/educare/cotizador.mcpromociones.cl/tests/_support/UnitTester.php on line 19
+[11-Jan-2022 02:02:48 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Jan-2022 02:02:48 America/Chicago] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/educare/cotizador.mcpromociones.cl/tests/_support/AcceptanceTester.php on line 19
+[24-Jan-2022 14:26:33 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Jan-2022 14:26:33 America/Chicago] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/educare/cotizador.mcpromociones.cl/tests/_support/UnitTester.php on line 19
+[11-Feb-2022 23:03:52 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Feb-2022 23:03:52 America/Chicago] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/educare/cotizador.mcpromociones.cl/tests/_support/AcceptanceTester.php on line 19
+[14-Feb-2022 16:16:20 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[14-Feb-2022 16:16:20 America/Chicago] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/educare/cotizador.mcpromociones.cl/tests/_support/UnitTester.php on line 19

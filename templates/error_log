@@ -1,0 +1,14 @@
+[07-Oct-2021 15:41:13 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Oct-2021 15:41:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/educare/cotizador.mcpromociones.cl/templates/correo.php on line 689
+[07-Oct-2021 15:41:20 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Oct-2021 15:41:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/educare/cotizador.mcpromociones.cl/templates/correoc.php on line 668
+[07-Oct-2021 15:50:09 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Oct-2021 15:50:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/educare/cotizador.mcpromociones.cl/templates/correoc.php on line 668
+[07-Oct-2021 15:51:59 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Oct-2021 15:51:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/educare/cotizador.mcpromociones.cl/templates/correo.php on line 689
+[07-Oct-2021 16:00:13 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Oct-2021 16:00:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/educare/cotizador.mcpromociones.cl/templates/correo.php on line 689
+[24-Oct-2021 20:35:41 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Oct-2021 20:35:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/educare/cotizador.mcpromociones.cl/templates/correo.php on line 689
+[02-Nov-2021 11:17:25 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Nov-2021 11:17:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/educare/cotizador.mcpromociones.cl/templates/correoc.php on line 668

@@ -1,0 +1,8 @@
+[08-Oct-2021 07:21:12 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Oct-2021 07:21:12 America/Chicago] PHP Fatal error:  Class 'yii\base\Model' not found in /home/educare/cotizador.mcpromociones.cl/models/Modeloso.php on line 8
+[08-Oct-2021 07:25:41 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Oct-2021 07:25:41 America/Chicago] PHP Fatal error:  Class 'yii\base\BaseObject' not found in /home/educare/cotizador.mcpromociones.cl/models/User.php on line 5
+[21-Oct-2021 03:29:34 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Oct-2021 03:29:34 America/Chicago] PHP Fatal error:  Class 'yii\base\Model' not found in /home/educare/cotizador.mcpromociones.cl/models/Modeloso.php on line 8
+[25-Oct-2021 19:48:48 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[25-Oct-2021 19:48:48 America/Chicago] PHP Fatal error:  Class 'yii\base\BaseObject' not found in /home/educare/cotizador.mcpromociones.cl/models/User.php on line 5

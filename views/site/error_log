@@ -1,0 +1,10 @@
+[08-Oct-2021 02:39:05 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Oct-2021 02:39:05 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/educare/cotizador.mcpromociones.cl/views/site/index.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/educare/cotizador.mcpromociones.cl/views/site/index.php on line 66
+[29-Oct-2021 04:02:22 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Oct-2021 04:02:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/educare/cotizador.mcpromociones.cl/views/site/index.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/educare/cotizador.mcpromociones.cl/views/site/index.php on line 66

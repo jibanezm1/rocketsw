@@ -1,0 +1,457 @@
+.col-xs-12.col-md-6.i.pink.card {
+    margin-bottom: 20px;
+}
+
+.ck {
+    background: #e81d62;
+    text-transform: uppercase;
+    font-weight: 700;
+    background-color: #363f45 !important;
+}
+
+h4.title.as {
+    color: white;
+}
+
+h4.title {
+    color: white;
+}
+
+.col-xs-12.col-md-6.i.green.card {
+    background-color: #25476a;
+}
+
+.container {
+    padding: 10px;
+}
+
+.col-xs-12.col-md-3.i.pink {
+    margin-bottom: 25px;
+}
+
+h3.title {
+    width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/*! CSS Used from: https://rocket.getshop.cl/web/bootstrap/css/bootstrap.min.css */
+input {
+    margin: 0;
+    font: inherit;
+    color: inherit;
+}
+
+input::-moz-focus-inner {
+    padding: 0;
+    border: 0;
+}
+
+input {
+    line-height: normal;
+}
+
+@media print {
+
+    *,
+    :after,
+    :before {
+        color: #000 !important;
+        text-shadow: none !important;
+        background: 0 0 !important;
+        -webkit-box-shadow: none !important;
+        box-shadow: none !important;
+    }
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+:after,
+:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+input {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.form-control:focus {
+    border-color: #66afe9;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(102, 175, 233, .6);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(102, 175, 233, .6);
+}
+
+.form-control::-moz-placeholder {
+    color: #999;
+    opacity: 1;
+}
+
+.form-control:-ms-input-placeholder {
+    color: #999;
+}
+
+.form-control::-webkit-input-placeholder {
+    color: #999;
+}
+
+/*! CSS Used from: https://rocket.getshop.cl/web/css/app.min.css */
+.form-control {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    outline: 0;
+    border-color: #e6e7ed;
+    border-left: 3px solid #4bae4f;
+    font-weight: 400;
+    height: 56px;
+    padding: 16px 18px;
+    margin-bottom: 20px;
+}
+
+.form-control:focus,
+.form-control:hover {
+    outline: 0;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+.form-control:focus {
+    border-color: #4bae4f;
+}
+
+.form-control::-webkit-input-placeholder {
+    font-style: italic;
+    color: #919599;
+}
+
+.form-control:-moz-placeholder {
+    font-style: italic;
+    color: #919599;
+}
+
+.form-control::-moz-placeholder {
+    font-style: italic;
+    color: #919599;
+}
+
+.form-control:-ms-input-placeholder {
+    font-style: italic;
+    color: #919599;
+}
+
+/*! CSS Used from: https://rocket.getshop.cl/web/bootstrap/css/bootstrap.min.css */
+a {
+    background-color: transparent;
+}
+
+a:active,
+a:hover {
+    outline: 0;
+}
+
+@media print {
+
+    *,
+    :after,
+    :before {
+        color: #000 !important;
+        text-shadow: none !important;
+        background: 0 0 !important;
+        -webkit-box-shadow: none !important;
+        box-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h3 {
+        page-break-after: avoid;
+    }
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+:after,
+:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+a:focus,
+a:hover {
+    color: #23527c;
+    text-decoration: underline;
+}
+
+a:focus {
+    outline: thin dotted;
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px;
+}
+
+h3 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
+h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+.col-md-6,
+.col-xs-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.col-xs-12 {
+    float: left;
+}
+
+.col-xs-12 {
+    width: 100%;
+}
+
+@media (min-width:992px) {
+    .col-md-6 {
+        float: left;
+    }
+
+    .col-md-6 {
+        width: 50%;
+    }
+}
+
+/*! CSS Used from: https://rocket.getshop.cl/web/fonts/material-design-iconic-font/css/material-design-iconic-font.min.css */
+.zmdi {
+    display: inline-block;
+    font: normal normal normal 14px/1 'Material-Design-Iconic-Font';
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.zmdi-hc-fw {
+    width: 1.28571429em;
+    text-align: center;
+}
+
+.zmdi-case-check:before {
+    content: '\f12a';
+}
+
+.zmdi-case-check:before {
+    content: '\f12a';
+}
+
+/*! CSS Used from: https://rocket.getshop.cl/web/css/app.min.css */
+a {
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+}
+
+a:active,
+a:focus,
+a:hover {
+    outline: 0;
+    text-decoration: none;
+    color: #363f45;
+}
+
+.statsBar .i .c {
+    display: block;
+    color: #fff;
+    padding: 30px 30px 20px 30px;
+    position: relative;
+}
+
+.statsBar .i .c .title {
+    margin: 0 0 5px 0;
+    font-size: 16px;
+    font-size: 1.6rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.statsBar .i .c .num {
+    font-size: 30px;
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.statsBar .i .c .icon,
+.statsBar .i .c:before {
+    width: 110px;
+}
+
+.statsBar .i .c:before {
+    content: '';
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+}
+
+.statsBar .i .c .icon {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    font-family: Material-Design-Iconic-Font;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    font-size: 40px;
+    font-size: 4rem;
+}
+
+.statsBar .i.pink .c {
+    background: #e81d62;
+}
+
+.statsBar .i.pink .c:before {
+    background: #dc1c5d;
+}
+
+.statsBar .i.pink .c:hover {
+    background: #dc1c5d;
+}
+
+.statsBar .i.pink .c:hover:before {
+    background: #e81d62;
+}
+
+.col-md-6,
+.col-xs-12 {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+@media (max-width:500px) {
+
+    .statsBar .i .c .icon,
+    .statsBar .i .c:before {
+        width: 60px;
+    }
+}
+
+@media (max-width:991px) {
+    .statsBar .i {
+        margin-top: 24px;
+    }
+
+    .statsBar .i:first-child {
+        margin-top: 0;
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+
+    .statsBar .i .c .icon,
+    .statsBar .i .c:before {
+        width: 60px;
+    }
+}
+
+/*! CSS Used from: Embedded */
+.col-xs-12.col-md-6.i.pink.card {
+    margin-bottom: 20px;
+}
+
+/*! CSS Used from: Embedded */
+.ck {
+    background: #e81d62;
+    text-transform: uppercase;
+    font-weight: 700;
+    background-color: #363f45 !important;
+}
+
+h3.title {
+    width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/*! CSS Used fontfaces */
+@font-face {
+    font-family: Material-Design-Iconic-Font;
+    src: url(https://rocket.getshop.cl/web/fonts/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff?v=2.1.0) format('woff'), url(https://rocket.getshop.cl/web/fonts/material-design-iconic-font/fonts/Material-Design-Iconic-Font.ttf?v=2.1.0) format('truetype');
+}

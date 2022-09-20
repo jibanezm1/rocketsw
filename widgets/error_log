@@ -1,0 +1,4 @@
+[07-Oct-2021 02:47:23 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Oct-2021 02:47:23 America/Chicago] PHP Fatal error:  Class 'yii\bootstrap\Widget' not found in /home/educare/cotizador.mcpromociones.cl/widgets/Alert.php on line 25
+[23-Dec-2021 07:56:02 America/Chicago] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[23-Dec-2021 07:56:02 America/Chicago] PHP Fatal error:  Class 'yii\bootstrap\Widget' not found in /home/educare/cotizador.mcpromociones.cl/widgets/Alert.php on line 25
